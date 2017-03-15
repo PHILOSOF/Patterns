@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Abstract Superclass", "Abstract Superclass\Abstract Superclass.vcxproj", "{786B477B-18ED-4DD8-A8E9-15B63005DED3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AccessMethod", "AccessMethod\AccessMethod.vcxproj", "{D757E824-1E86-4FBF-9C3D-C9D4D14881A3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Delegate", "Delegate\Delegate.vcxproj", "{A2781350-AFBC-4B01-A2D2-086EE38FBD69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{786B477B-18ED-4DD8-A8E9-15B63005DED3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{786B477B-18ED-4DD8-A8E9-15B63005DED3}.Debug|Win32.Build.0 = Debug|Win32
+		{786B477B-18ED-4DD8-A8E9-15B63005DED3}.Release|Win32.ActiveCfg = Release|Win32
+		{786B477B-18ED-4DD8-A8E9-15B63005DED3}.Release|Win32.Build.0 = Release|Win32
+		{D757E824-1E86-4FBF-9C3D-C9D4D14881A3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D757E824-1E86-4FBF-9C3D-C9D4D14881A3}.Debug|Win32.Build.0 = Debug|Win32
+		{D757E824-1E86-4FBF-9C3D-C9D4D14881A3}.Release|Win32.ActiveCfg = Release|Win32
+		{D757E824-1E86-4FBF-9C3D-C9D4D14881A3}.Release|Win32.Build.0 = Release|Win32
+		{A2781350-AFBC-4B01-A2D2-086EE38FBD69}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2781350-AFBC-4B01-A2D2-086EE38FBD69}.Debug|Win32.Build.0 = Debug|Win32
+		{A2781350-AFBC-4B01-A2D2-086EE38FBD69}.Release|Win32.ActiveCfg = Release|Win32
+		{A2781350-AFBC-4B01-A2D2-086EE38FBD69}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
