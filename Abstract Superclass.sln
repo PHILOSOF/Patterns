@@ -9,6 +9,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AccessMethod", "AccessMetho
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Delegate", "Delegate\Delegate.vcxproj", "{A2781350-AFBC-4B01-A2D2-086EE38FBD69}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConstantDataManager", "ConstantDataManager\ConstantDataManager.vcxproj", "{AEB7DAAD-9EC0-4D1B-AF55-72CC86327100}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Immutable", "Immutable\Immutable.vcxproj", "{AE62BD91-F03D-40FA-8344-04DBC82815D7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singletone", "Singletone\Singletone.vcxproj", "{CE61915D-EB8A-4E95-955B-E3C386B037FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -27,6 +33,18 @@ Global
 		{A2781350-AFBC-4B01-A2D2-086EE38FBD69}.Debug|Win32.Build.0 = Debug|Win32
 		{A2781350-AFBC-4B01-A2D2-086EE38FBD69}.Release|Win32.ActiveCfg = Release|Win32
 		{A2781350-AFBC-4B01-A2D2-086EE38FBD69}.Release|Win32.Build.0 = Release|Win32
+		{AEB7DAAD-9EC0-4D1B-AF55-72CC86327100}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AEB7DAAD-9EC0-4D1B-AF55-72CC86327100}.Debug|Win32.Build.0 = Debug|Win32
+		{AEB7DAAD-9EC0-4D1B-AF55-72CC86327100}.Release|Win32.ActiveCfg = Release|Win32
+		{AEB7DAAD-9EC0-4D1B-AF55-72CC86327100}.Release|Win32.Build.0 = Release|Win32
+		{AE62BD91-F03D-40FA-8344-04DBC82815D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AE62BD91-F03D-40FA-8344-04DBC82815D7}.Debug|Win32.Build.0 = Debug|Win32
+		{AE62BD91-F03D-40FA-8344-04DBC82815D7}.Release|Win32.ActiveCfg = Release|Win32
+		{AE62BD91-F03D-40FA-8344-04DBC82815D7}.Release|Win32.Build.0 = Release|Win32
+		{CE61915D-EB8A-4E95-955B-E3C386B037FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CE61915D-EB8A-4E95-955B-E3C386B037FB}.Debug|Win32.Build.0 = Debug|Win32
+		{CE61915D-EB8A-4E95-955B-E3C386B037FB}.Release|Win32.ActiveCfg = Release|Win32
+		{CE61915D-EB8A-4E95-955B-E3C386B037FB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
