@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Immutable", "Immutable\Immu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singletone", "Singletone\Singletone.vcxproj", "{CE61915D-EB8A-4E95-955B-E3C386B037FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FactoryMethod", "FactoryMetod\FactoryMetod.vcxproj", "{F3E3992E-31C1-4A47-A958-6A69C4E49AB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -45,6 +47,10 @@ Global
 		{CE61915D-EB8A-4E95-955B-E3C386B037FB}.Debug|Win32.Build.0 = Debug|Win32
 		{CE61915D-EB8A-4E95-955B-E3C386B037FB}.Release|Win32.ActiveCfg = Release|Win32
 		{CE61915D-EB8A-4E95-955B-E3C386B037FB}.Release|Win32.Build.0 = Release|Win32
+		{F3E3992E-31C1-4A47-A958-6A69C4E49AB4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3E3992E-31C1-4A47-A958-6A69C4E49AB4}.Debug|Win32.Build.0 = Debug|Win32
+		{F3E3992E-31C1-4A47-A958-6A69C4E49AB4}.Release|Win32.ActiveCfg = Release|Win32
+		{F3E3992E-31C1-4A47-A958-6A69C4E49AB4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
