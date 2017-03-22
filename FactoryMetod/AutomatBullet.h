@@ -4,7 +4,7 @@
 class AutomatBullet : public AbstractBullet
 {
 public:
-	AutomatBullet(){}
+	AutomatBullet();
 
 	void setLocation(const Point3D&) ;
 	Point3D getLocation() ;

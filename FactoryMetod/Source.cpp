@@ -10,7 +10,7 @@ int main()
 	std::vector<AbstractWeapon*> weapons;
 	weapons.push_back(new Automat());
 	
-	AbstractBullet* bullet = (**weapons.end()).CreateBullet();
+	AbstractBullet* bullet = (**(weapons.end()-1)).CreateBullet();
 
 	bullet->setLocation(Point3D(23, 43, 2));
 

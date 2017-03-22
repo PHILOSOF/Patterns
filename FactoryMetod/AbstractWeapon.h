@@ -1,6 +1,8 @@
 #ifndef ABSTRACTWEAPON_H 
 #define ABSTRACTWEAPON_H
 
+class AbstractBullet;
+
 class AbstractWeapon
 {
 public :

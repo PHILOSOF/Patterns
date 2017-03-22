@@ -4,6 +4,7 @@
 AutomatBullet::AutomatBullet(){
 	
 }
+
 void AutomatBullet::setLocation(const Point3D& loc)
 {
 	this->location = loc;
